@@ -3,15 +3,18 @@
 <footer class="bg-white dark:bg-gray-900">
     <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div class="md:flex md:justify-between">
-          <div class="mb-6 md:mb-0 ">
-              <a href="https://flowbite.com/" class="pr-2">
+          <div class="mb-6 md:mb-0 flex flex-col  justify-start items-start">
+              <a href="https://flowbite.com/" class="ml-6 lg:ml-0">
                   <img src="/logo1.png" class="h-16 " alt="logo" />
 
               </a>
-              <span class="text-sm font-regular dark:text-white">Use this space to describe your Advanced prize,its importance to users that how this plan can be helpful.</span>
+              
+                <span class="text-sm lg:w-1/2 mx-12 lg:mx-6 font-regular dark:text-white">Use this space to describe your Advanced prize,its importance to users that how this plan can be helpful.</span>
+
+           
 
           </div>
-          <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
+          <div class="grid grid-cols-2 gap-8 sm:gap-6 pl-12  sm:grid-cols-3">
               <div>
                   <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Home</h2>
                   <ul class="text-gray-500 dark:text-gray-400 font-medium">

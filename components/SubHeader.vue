@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-[url('/assets/branding.png')] lg:bg-cover rounded-md lg:rounded-3xl lg:py-24 py-12 pl-14 mx-auto w-11/12">
-        <div class="flex flex-col justify-start items-start pr-36 lg:py-24 lg:w-6/12">
+    <div class="bg-[url('/assets/branding.png')] lg:bg-cover rounded-md lg:rounded-3xl lg:py-20 pb-12 lg:pl-14 pl-6 lg:mx-18 mx-auto w-11/12">
+        <div class="flex flex-col justify-start items-start lg:pr-36 lg:py-24 lg:w-6/12">
             <span class="text-yellow-300 text-sm font-semibold mt-3">SOFTWARE SERVICE</span>
             <h2 class="text-white font-bold text-5xl  mt-3">Technology made</h2>
             <h2 class="text-white font-bold text-5xl mt-3 ">Simple Better functions.</h2>
@@ -21,6 +21,7 @@
 </template>
 
 <script>
+
     export default {
         
     }

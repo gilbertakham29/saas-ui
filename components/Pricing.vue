@@ -25,7 +25,7 @@
                 <span class="text-gray-400 font-semibold text-xs">Billed Monthly</span>
             </div>
         </div>
-        <div class="border border-gray-100 shadow-md border-t-blue-500 border-t-4 cursor-pointer rounded flex flex-col justify-start items-start p-4 lg:w-11/12  lg:py-12 mt-4">
+        <div class="border border-gray-100 shadow-md border-t-blue-500 border-t-4 cursor-pointer rounded flex flex-col justify-start items-start p-4 lg:w-11/12  lg:py-12 lg:mt-0 mt-4">
                 <h4 class="text-gray-700 font-bold text-3xl">Basic</h4>
                 <p class="text-gray-500 font-normal text-lg mt-4">Use this space to describe your Advanced prize,its importance to users that how this plan can be helpful.</p>
                 <p class="text-gray-700 font-bold text-3xl mt-4">$52</p>
@@ -62,7 +62,7 @@
    <span>Unlimited Templates</span>
                     </li>
                     <li class="flex gap-4 mt-4">
-                        <svg class="lg:w-6 w-12 h-12 lg:h-6 text-blue-200  dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                        <svg class="lg:w-6 md:w-6 md:h-6 sm:w-6 sm:h-6 w-12 h-12 lg:h-6 text-blue-200  dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
   </svg>
    <span>Uploads Upto 500 Gb Data with extra Subscription option</span>

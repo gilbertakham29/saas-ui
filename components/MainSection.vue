@@ -1,5 +1,5 @@
 <template>
-    <div class="lg:grid grid-cols-2 w-full gap-24 mt-8 mx-auto lg:p-24">
+    <div class="lg:grid grid-cols-2 w-full gap-24 mt-8 mx-auto lg:mx-20 lg:p-24">
         <div class="col-span-1 ">
             <img src="~/assets/tools.png" class="w-auto" alt="tools">
         </div>
